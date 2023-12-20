@@ -2,6 +2,8 @@
 
 This project demonstrates the use of Next.js with REST API endpoints and client-side rendering using React.
 
+![Alt Text](./public/demo.gif)
+
 ## Technologies Used
 
 - Next.js (Pages Router)
@@ -12,16 +14,19 @@ This project demonstrates the use of Next.js with REST API endpoints and client-
 ## Setup
 
 1. Clone the repository:
+
 ```
 git clone <repository-url>
 ```
 
 2. Install dependencies:
+
 ```
 npm install
 ```
 
 3. Run the development server:
+
 ```
 npm run dev
 ```
